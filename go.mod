@@ -1,4 +1,4 @@
-module github.com/Sotatek-huytran2/go-sdk
+module github.com/Sotatek-huytran2/go-sdk-
 
 require (
 	github.com/binance-chain/ledger-cosmos-go v0.9.9-binance.1
